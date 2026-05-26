@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasesender",
+        "uuid": 2136632,
+        "checksum": "lfsmc"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
